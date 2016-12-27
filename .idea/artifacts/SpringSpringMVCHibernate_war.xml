@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="SpringSpringMVCHibernate:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="SpringSpringMVCHibernate.war">
+      <element id="artifact" artifact-name="SpringSpringMVCHibernate:war exploded" />
+    </root>
+  </artifact>
+</component>
